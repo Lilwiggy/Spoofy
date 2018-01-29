@@ -1,4 +1,4 @@
-# Spoticord-that-f-ing-works
+# Spoofy
 <h1><b>This app needs nodejs installed on your PC</b></h1>
 https://nodejs.org/en/
 
@@ -8,4 +8,4 @@ https://nodejs.org/en/
 <br>
 Then just type "node app.js" and it should be working!</p>
 
-Spoticord but works.
+So spoofy
