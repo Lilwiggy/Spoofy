@@ -1,0 +1,17 @@
+{
+  "name": "spoticord-that-f-ing-works",
+  "version": "1.0.0",
+  "description": "Something that actually works",
+  "main": "app.js",
+  "dependencies": {
+    "discord-rpc": "^3.0.0-beta.8",
+    "electron": "^1.7.10",
+    "snekfetch": "^3.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "John Wiggins",
+  "license": "ISC"
+}
