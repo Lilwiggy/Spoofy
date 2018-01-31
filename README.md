@@ -1,4 +1,6 @@
 # Spoofy
+
+# Discord RPC for spotify (totally original)
 <h1><b>This app needs nodejs installed on your PC</b></h1>
 https://nodejs.org/en/
 
