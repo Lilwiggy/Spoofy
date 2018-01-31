@@ -1,7 +1,7 @@
 {
-  "name": "spoticord-that-f-ing-works",
+  "name": "spoofy",
   "version": "1.0.0",
-  "description": "Something that actually works",
+  "description": "Spoofy jams",
   "main": "app.js",
   "dependencies": {
     "discord-rpc": "^3.0.0-beta.8",
