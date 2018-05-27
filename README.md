@@ -1,4 +1,6 @@
-# Spoofy
+# Spoofy [DEPRECATED]
+
+# Just use the built in one now. I released this right before they added it.
 
 # Discord RPC for spotify (totally original)
 <h1><b>This app needs nodejs installed on your PC</b></h1>
